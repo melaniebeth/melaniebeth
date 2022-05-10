@@ -4,9 +4,10 @@
 
 - 💻 I’m a Software Development Manager at CentralSquare Technologies.
 - 💡 My goal is to inspire software developers to reach for the stars (while having fun)!
-- 🖱️ My first language was BASIC in the late 1980's.
-- 🥇 My favorite languages are Python and SQL.
-- 📱 The current language I'm exploring is Kotlin.
+- 🖱️ My first language: BASIC. (Classic 80's!)
+- 🥇 My favorite languages: Python/SQL.
+- 📱 My current learning path: Kotlin.
+<br/><hr/>
 - 🏒 I'm a Vegas Golden Knights fan in the land of the Wild.
 - 🧩 I live to solve puzzles and problems!
 - 🌍 I ♥️ to travel.
