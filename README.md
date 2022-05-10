@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello World 👋  Prepare yourself - you've found [Melanie!](https://melaniebeth.github.io/MyPortfolio/)🌷
 
-<!--
-**melaniebeth/melaniebeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I’m a Software Development Manager at CentralSquare Technologies.
+- 📚 I’m currently learning anything I can get my hands on!
+- 🏒 I'm a Vegas Golden Knights fan in MN Wild country.
+- 🧩 I live to solve puzzles and problems!
+- 🌍 I ♥️ to travel.
+- 🤝 Connect with me on LinkedIn, just scan the QR code below!
+<br/>
+<p align="center">
+<img src="https://github.com/melaniebeth/melaniebeth/blob/main/LinkedInQR_Standard.png"  width="150px" />
+</p>
