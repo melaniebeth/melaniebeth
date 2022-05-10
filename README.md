@@ -5,7 +5,7 @@
 
 - 💻 I’m a Software Development Manager at CentralSquare Technologies.
 - 📚 I’m currently learning anything I can get my hands on!
-- 🏒 I'm a Vegas Golden Knights fan in MN Wild country.
+- 🏒 I'm a Vegas Golden Knights fan in the land of the Wild.
 - 🧩 I live to solve puzzles and problems!
 - 🌍 I ♥️ to travel.
 - 🤝 Connect with me on LinkedIn, just scan the QR code below!
