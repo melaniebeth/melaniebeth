@@ -9,8 +9,10 @@
 - 🏒 I'm a Vegas Golden Knights fan in the land of the Wild.
 - 🧩 I live to solve puzzles and problems!
 - 🌍 I ♥️ to travel.
-- 🤝 Connect with me on LinkedIn, just scan the QR code below!
+- 🤝 I love meeting new people!   Connect with me on LinkedIn, and introduce yourself! 🎤 
 <br/>
 <p align="center">
+  https://www.linkedin.com/in/melaniekeeney/
+  <br/>
 <img src="https://github.com/melaniebeth/melaniebeth/blob/main/LinkedInQR_Standard.png"  width="150px" />
 </p>
