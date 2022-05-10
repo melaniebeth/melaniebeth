@@ -4,6 +4,7 @@
 
 
 - 💻 I’m a Software Development Manager at CentralSquare Technologies.
+- 💡 My goal is to inspire new and growing software developers to be stars! ⭐
 - 📚 I’m currently learning anything I can get my hands on!
 - 🏒 I'm a Vegas Golden Knights fan in the land of the Wild.
 - 🧩 I live to solve puzzles and problems!
