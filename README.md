@@ -2,7 +2,7 @@
 <hr/>
 <br/>
 
-- 💻 I’m a Software Development Manager at CentralSquare Technologies.
+- 💻 Manager of Data Implementation at 1upHealth.
 - 💡 My goal is to inspire software developers to reach for the stars (while having fun)!
 - 🖱️ My first language: BASIC. (Classic 80's!)
 - 🥇 My favorite languages: Python/SQL.
